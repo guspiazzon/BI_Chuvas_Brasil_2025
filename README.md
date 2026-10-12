@@ -42,7 +42,8 @@ O painel foi desenvolvido com foco em experiência do usuário (UX) e design exe
 * **Acumulado por Mês (Gráfico de Barras):** Distribuição sazonal do volume de chuvas mês a mês (ordenados cronologicamente de Janeiro a Dezembro).
 
   
-<img width="1432" height="808" alt="image" src="https://github.com/user-attachments/assets/790d1f7f-0be5-4daa-aa97-8cc270f64ed9" />
+<img width="1432" height="802" alt="image" src="https://github.com/user-attachments/assets/b4e5bbb1-bc0a-48be-945e-1ca005161528" />
+
 
 ---
 
