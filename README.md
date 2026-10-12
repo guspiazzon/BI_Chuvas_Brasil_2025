@@ -43,7 +43,8 @@ O painel foi desenvolvido com foco em experiência do usuário (UX) e design exe
 
   
 
-<img width="1428" height="799" alt="image" src="https://github.com/user-attachments/assets/56875c59-4db0-4c1a-86f4-330191c5ee63" />
+<img width="1443" height="809" alt="image" src="https://github.com/user-attachments/assets/9368bd9e-0deb-4dd9-b51c-0eb135b55f58" />
+
 
 
 ---
